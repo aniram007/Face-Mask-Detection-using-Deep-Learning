@@ -9,7 +9,7 @@ The process flow is as follows:
   
   1c)Convert the collected dataset into a numpy file for easier processing for training the model. (This is done in FACE_DATA_PREP.py)
   
-  1d)Define a custom CNN architecture and train the CNN model on the prepared dataset. (This is done in FACE_TRAIN.py)
+2) Define a custom CNN architecture and train the CNN model on the prepared dataset. (This is done in FACE_TRAIN.py)
   
-  1e)Test the performance of the CNN on a live webcam feed. (This is done in FACE_TEST.py)
+3) Test the performance of the CNN on a live webcam feed. (This is done in FACE_TEST.py)
   
